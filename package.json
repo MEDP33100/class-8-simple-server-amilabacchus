@@ -1,0 +1,22 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zPEbIGCW) # Template for MEDP 33100 projects and homeworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEDP33100/class-8-simple-server-amilabacchus.git"
+  },
+  "author": "bacchusamila@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MEDP33100/class-8-simple-server-amilabacchus/issues"
+  },
+  "homepage": "https://github.com/MEDP33100/class-8-simple-server-amilabacchus#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
